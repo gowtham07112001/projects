@@ -1,6 +1,6 @@
 {
+  "homepage": "http://gowtham07112001.github.io/website-projects",
   "name": "my-app",
-  "homepage": "http://gowtham07112001.github.io/website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
